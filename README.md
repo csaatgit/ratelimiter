@@ -1,3 +1,3 @@
 # ratelimiter
-add vm args -Dspring.profiles.active=local
-run as spring boot app
+    - Add vm args -Dspring.profiles.active=local
+    - AND run as spring boot app
